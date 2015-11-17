@@ -52,7 +52,8 @@ In case that a player needs to pass the game, it is no indicated in the input fi
 
 We provide two test cases for you and they should be comprehensive enough for you to test all features in the game.
 
-    - It is a draw game case, with inputs such that players are occasionally forced to pass his turn.
+- The first case, included in the directory `test1`, is a draw-game case, with inputs such that players are occasionally forced to pass his turn.
+    
     ```
         0   1   2   3   4   5   6   7
       +---+---+---+---+---+---+---+---+
@@ -75,7 +76,8 @@ We provide two test cases for you and they should be comprehensive enough for yo
     ```
 
 
-    - It is a fast game with a player's discs all removed.
+- The second case, included in the directory `test2`, is a fast game with a player's discs all removed.
+    
     ```
         0   1   2   3   4   5   6   7
       +---+---+---+---+---+---+---+---+
